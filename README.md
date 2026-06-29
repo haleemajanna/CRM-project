@@ -7,7 +7,7 @@ A multi-page Power BI dashboard analyzing CRM sales performance across regions, 
 Provide sales leadership with a 360° view of pipeline performance, identify top-performing agents and industries, flag pipeline bottlenecks, and forecast future income.
 
 ## 🗂️ Data Source
-CRM sales/deals dataset (Jan 2024 – May 2024 transaction period, deal-level data)
+CRM sales/deals dataset (February 2025 – March 2025 transaction period, deal-level data)
 
 ## 🛠️ Tools Used
 Power BI, DAX, Power Query
